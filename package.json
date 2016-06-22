@@ -1,0 +1,14 @@
+{
+  "name": "intro-to-nodejs",
+  "version": "0.0.0",
+  "description": "This is an example project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.13.1"
+  }
+}
